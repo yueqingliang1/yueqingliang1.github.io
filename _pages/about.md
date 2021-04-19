@@ -18,3 +18,13 @@ News
 
 Experience
 ======
+
+
+Publication
+======
+**Demystifying Millimeter-Wave V2X: Towards Robust and Efficient
+Directional Connectivity Under High Mobility**
+**S. Wang**, J. Huang, X. Zhang
+ACM International Conference on Mobile Computing and Networking (MobiCom'20)
+(62 out of 384 submissions, acceptance ratio: 16%)
+(Source code: mmWave V2X 3D ray-tracing)
