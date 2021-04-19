@@ -23,28 +23,27 @@ Experience
 Publication
 ======
 **Demystifying Millimeter-Wave V2X: Towards Robust and Efficient
-Directional Connectivity Under High Mobility**  
+Directional Connectivity Under High Mobility**([PDF](http://sowang46.github.io/files/v2x.pdf))  
 **S. Wang**, J. Huang, X. Zhang,  
 ACM International Conference on Mobile Computing and Networking (MobiCom'20)  
 (62 out of 384 submissions, acceptance ratio: 16%)
 (Source code: [mmWave V2X 3D ray-tracing](http://m3.ucsd.edu/mmwave-v2x-testbed/))
 
-**X-Array: Approximating Omnidirectional Millimeter-Wave Coverage Using an Array of Phased-Arrays**  
+**X-Array: Approximating Omnidirectional Millimeter-Wave Coverage Using an Array of Phased-Arrays**([PDF](http://sowang46.github.io/files/xarray.pdf))  
 **S. Wang**, J. Huang, X. Zhang, H. Kim, S. Dey,  
 ACM International Conference on Mobile Computing and Networking (MobiCom'20)  
 (62 out of 384 submissions, acceptance ratio: 16%)
 
-**Robotic Millimeter-Wave Wireless Networks**  
+**Robotic Millimeter-Wave Wireless Networks**([PDF](http://sowang46.github.io/files/robotic.pdf))  
 A. Zhou, S. Xu, **S. Wang**, J. Huang, S. Yang, T.Wei, X. Zhang; H, Ma, 
 IEEE/ACM Transactions on Networking (ToN'19)  
 
-**Robot Navigation in Radio Beam
-Space: Leveraging Robotic Intelligence for Seamless mmWave Network Coverage**  
+**Robot Navigation in Radio Beam Space: Leveraging Robotic Intelligence for Seamless mmWave Network Coverage**([PDF](http://sowang46.github.io/files/robot.pdf))  
 A. Zhou, S. Xu, **S. Wang**, J. Huang, S. Yang, T.Wei, X. Zhang; H, Ma, 
 ACM International Symposium on Mobile Ad Hoc Networking and Computing (MobiHoc'19) 
 
 **KPad: Maximizing Channel Utilization for MU-MIMO Systems using
-Knapsack Padding**
+Knapsack Padding**([PDF](http://sowang46.github.io/files/kpad.pdf))
 **S. Wang**, J. Huang, A. Zhou,  
 IEEE International Conference on Communications 2018 Wireless Networking Sym-
 posium (ICC'18 WN)  
