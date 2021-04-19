@@ -18,7 +18,9 @@ News
 
 Experience
 ======
+Sony Corporation Tokyo (9/2020-Present)  
 
+AT&T Research (7/2019-9/2019)  
 
 Publication
 ======
@@ -47,3 +49,7 @@ Knapsack Padding**([PDF](http://sowang46.github.io/files/kpad.pdf))
 **S. Wang**, J. Huang, A. Zhou,  
 IEEE International Conference on Communications 2018 Wireless Networking Sym-
 posium (ICC'18 WN)  
+
+CV
+=====
+[CV (PDF)](http://sowang46.github.io/files/CV_202102.pdf)
