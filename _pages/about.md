@@ -14,7 +14,13 @@ My research interests lie in mobile computing and wireless networking, with focu
 
 News
 ======
+Sep 2021. Our paper **HiveMind: Towards Cellular Native Machine Learning Model Splitting** is accepted by IEEE JSAC.
 
+Aug 2020. A first version of our [3D ray tracing code and data](http://m3.ucsd.edu/mmwave-v2x-testbed/) has been released.
+
+Jul 2020. Our paper **Demystifying Millimeter-Wave V2X: Towards Robust and Efficient Directional Connectivity Under High Mobility** is accepted by Mobicom’20
+
+Feb 2020. Our paper **X-Array: Approximating Omnidirectional Millimeter-Wave Coverage Using an Array of Phased Arrays** is accepted by Mobicom’20.
 
 Experience
 ======
@@ -24,6 +30,10 @@ AT&T Research (7/2019-9/2019)
 
 Publication
 ======
+**HiveMind: Towards Cellular Native Machine Learning Model Splitting**([PDF](http://sowang46.github.io/files/hivemind.pdf))  
+**S. Wang**, X. Zhang, H. Uchiyama, H, Matsuda
+IEEE Journal on Selected Areas in Communications 2021 (JSAC) 
+
 **Demystifying Millimeter-Wave V2X: Towards Robust and Efficient
 Directional Connectivity Under High Mobility**([PDF](http://sowang46.github.io/files/v2x.pdf))  
 **S. Wang**, J. Huang, X. Zhang,  
