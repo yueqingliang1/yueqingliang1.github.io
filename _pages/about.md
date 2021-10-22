@@ -24,9 +24,11 @@ Feb 2020. Our paper **X-Array: Approximating Omnidirectional Millimeter-Wave Cov
 
 Experience
 ======
-Sony Corporation Tokyo (9/2020-Present)  
+Sony Corporation Tokyo (Collaboration, 9/2020-Present)  
+Advised by Mr. Hiromasa Uchiyama  
 
-AT&T Research (7/2019-9/2019)  
+AT&T Research (Internship, 7/2019-9/2019)  
+Advised by Dr. Jin Wang  
 
 Publication
 ======
