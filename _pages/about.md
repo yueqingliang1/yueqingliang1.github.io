@@ -31,7 +31,7 @@ AT&T Research (7/2019-9/2019)
 Publication
 ======
 **HiveMind: Towards Cellular Native Machine Learning Model Splitting**([PDF](http://sowang46.github.io/files/hivemind.pdf))  
-**S. Wang**, X. Zhang, H. Uchiyama, H, Matsuda
+**S. Wang**, X. Zhang, H. Uchiyama, H, Matsuda,  
 IEEE Journal on Selected Areas in Communications 2021 (JSAC) 
 
 **Demystifying Millimeter-Wave V2X: Towards Robust and Efficient
