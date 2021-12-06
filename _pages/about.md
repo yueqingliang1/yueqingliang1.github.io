@@ -14,6 +14,8 @@ My research interests lie in mobile computing and wireless networking, with focu
 
 News
 ======
+Dec 2021. Our paper **NeuroMessenger: Towards Error Tolerant Distributed Machine Learning Over Edge Networks** is accepted by IEEE INFOCOM 2022.
+
 Sep 2021. Our paper **HiveMind: Towards Cellular Native Machine Learning Model Splitting** is accepted by IEEE JSAC.
 
 Aug 2020. A first version of our [3D ray tracing code and data](http://m3.ucsd.edu/mmwave-v2x-testbed/) has been released.
