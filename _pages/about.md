@@ -34,6 +34,10 @@ Advised by Dr. Jin Wang
 
 Publication
 ======
+**NeuroMessenger: Towards Error Tolerant Distributed Machine Learning Over Edge Networks**  
+**S. Wang**, X. Zhang
+IEEE International Conference on Computer Communications 2022 (INFOCOM'22) 
+
 **HiveMind: Towards Cellular Native Machine Learning Model Splitting**([PDF](http://sowang46.github.io/files/hivemind.pdf))  
 **S. Wang**, X. Zhang, H. Uchiyama, H, Matsuda,  
 IEEE Journal on Selected Areas in Communications 2021 (JSAC) 
@@ -59,7 +63,7 @@ A. Zhou, S. Xu, **S. Wang**, J. Huang, S. Yang, T.Wei, X. Zhang; H, Ma,
 ACM International Symposium on Mobile Ad Hoc Networking and Computing (MobiHoc'19) 
 
 **KPad: Maximizing Channel Utilization for MU-MIMO Systems using
-Knapsack Padding**([PDF](http://sowang46.github.io/files/kpad.pdf))
+Knapsack Padding**([PDF](http://sowang46.github.io/files/kpad.pdf))  
 **S. Wang**, J. Huang, A. Zhou,  
 IEEE International Conference on Communications 2018 Wireless Networking Sym-
 posium (ICC'18 WN)  
