@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 # Bio
-Hi there! This is Yueqing Liang (梁月清), you can call me Luna as well. I am currently a first-year Computer Science Ph.D. student at Illinois Institute of Technology (IIT), advised by [Prof. Kai Shu](http://www.cs.iit.edu/~kshu/). Before joining IIT, I received my Master degree in Big Data in Business from University of Sydney in 2020, and my Bachelor degree in Telecommunications Engineering with Management from Queen Mary University of London in 2018.
+Hi there! This is Yueqing Liang (梁月清), you can call me Luna as well. I am currently a first-year Computer Science Ph.D. student at Illinois Institute of Technology (IIT), advised by [Prof. Kai Shu](http://www.cs.iit.edu/~kshu/). Before joining IIT, I received my Master degree in Big Data in Business from University of Sydney (USYD) in 2020, and my Bachelor degree in Telecommunications Engineering with Management from Queen Mary University of London (QMUL) in 2018.
 
 My research interests are in the broad areas of **machine learning** and **data mining**, including several related topics like **fairness**, **recommender system**, and **privacy**.  
 
-\[[View My Curriculum Vitae](https://yueqingliang1.github.io/files/CV_Yingtong.pdf)\]   
-
+<!-- \[[View My Curriculum Vitae](https://yueqingliang1.github.io/files/CV_Yingtong.pdf)\]   
+ -->
 **<span style="color: indigo;">I am actively looking for research cooperation /summer internship positions related to machine learning fairness in United States. You can contact me via email (yueqingliang1 AT gmail DOT com) or WeChat (id: Luna_lyq).</span>**
 
 <!-- News
