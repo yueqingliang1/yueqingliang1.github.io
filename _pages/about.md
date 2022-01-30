@@ -7,10 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
+# Bio
+Hi there! This is Yueqing Liang (梁月清), you can call me Luna as well. I am currently a first-year Computer Science Ph.D. student at Illinois Institute of Technology (IIT), advised by [Prof. Kai Shu](http://www.cs.iit.edu/~kshu/). Before joining IIT, I received my Master degree in Big Data in Business from University of Sydney in 2020, and my Bachelor degree in Telecommunications Engineering with Management from Beijing University of Posts and Telecommunications [(BUPT)](https://english.bupt.edu.cn) in 2018.
 
-I am currently a Ph.D. student at the Department of Electrical and Computer Engineering in University of California San Diego, advised by [Professor Xinyu Zhang](http://xyzhang.ucsd.edu). I received my B.E. in Internet of Things engineering in 2018 from Beijing University of Posts and Telecommunications [(BUPT)](https://english.bupt.edu.cn), where I also worked as a research intern with [Professor Anfu Zhou](https://scs.bupt.edu.cn/info/1100/2285.htm).
+My research interests are in the broad areas of **machine learning** and **data mining**, including several related topics like **fairness**, **recommender system**, and **privacy**.  
 
-My research interests lie in mobile computing and wireless networking, with focus on 5G edge-assisted AI/ML and millimeter-wave networking.
+\[[View My Curriculum Vitae](https://yueqingliang1.github.io/files/CV_Yingtong.pdf)\]   
+
+**<span style="color: indigo;">I am actively looking for research cooperation /summer internship positions related to machine learning fairness in United States. You can contact me via email (yueqingliang1 AT gmail.com) or WeChat (id: luna_lyq).</span>**
 
 News
 ======
@@ -32,7 +36,7 @@ Advised by Mr. Hiromasa Uchiyama
 AT&T Research (Internship, 7/2019-9/2019)  
 Advised by Dr. Jin Wang  
 
-Publication
+Publications
 ======
 **NeuroMessenger: Towards Error Tolerant Distributed Machine Learning Over Edge Networks**  
 **S. Wang**, X. Zhang  
