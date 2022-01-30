@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# Bio
+## Bio
 Hi there! This is Yueqing Liang (梁月清), you can call me Luna as well. I am currently a first-year Computer Science Ph.D. student at Illinois Institute of Technology (IIT), advised by [Prof. Kai Shu](http://www.cs.iit.edu/~kshu/). Before joining IIT, I received my Master degree in Big Data in Business from University of Sydney (USYD) in 2020, and my Bachelor degree in Telecommunications Engineering with Management from Queen Mary University of London (QMUL) in 2018.
 
 My research interests are in the broad areas of **machine learning** and **data mining**, including several related topics like **fairness**, **recommender system**, and **privacy**.  
@@ -38,11 +38,12 @@ AT&T Research (Internship, 7/2019-9/2019)
 Advised by Dr. Jin Wang  
  -->
 
-# Preprints
-  * **Pre-training Graph Neural Network for Cross Domain Recommendation.**
+## Publications
+### 2021
+  * **Pre-training Graph Neural Network for Cross Domain Recommendation.**  
   Chen Wang, **Yueqing Liang**, [Zhiwei Liu](https://sites.google.com/view/zhiwei-jim), Tao Zhang, Philip S. Yu.  
-Under Review. Nov. 2021.  
-\[[Paper](https://arxiv.org/pdf/2111.08268.pdf)\]
+Invited paper on vision track (**CogMI 2021**)  
+\[[Paper](https://arxiv.org/abs/2111.08268)\]
 
 <!-- Publications
 ======
