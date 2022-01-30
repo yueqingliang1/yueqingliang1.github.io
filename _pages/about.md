@@ -16,7 +16,7 @@ My research interests are in the broad areas of **machine learning** and **data 
 
 **<span style="color: indigo;">I am actively looking for research cooperation /summer internship positions related to machine learning fairness in United States. You can contact me via email (yueqingliang1 AT gmail DOT com) or WeChat (id: Luna_lyq).</span>**
 
-News
+<!-- News
 ======
 Dec 2021. Our paper **NeuroMessenger: Towards Error Tolerant Distributed Machine Learning Over Edge Networks** is accepted by IEEE INFOCOM 2022.
 
@@ -27,50 +27,39 @@ Aug 2020. A first version of our [3D ray tracing code and data](http://m3.ucsd.e
 Jul 2020. Our paper **Demystifying Millimeter-Wave V2X: Towards Robust and Efficient Directional Connectivity Under High Mobility** is accepted by Mobicom’20
 
 Feb 2020. Our paper **X-Array: Approximating Omnidirectional Millimeter-Wave Coverage Using an Array of Phased Arrays** is accepted by Mobicom’20.
-
-Experience
+ -->
+ 
+<!-- Experience
 ======
 Sony Corporation Tokyo (Collaboration, 9/2020-Present)  
 Advised by Mr. Hiromasa Uchiyama  
 
 AT&T Research (Internship, 7/2019-9/2019)  
 Advised by Dr. Jin Wang  
+ -->
 
-Publications
+# Preprints
+  * **Pre-training Graph Neural Network for Cross Domain Recommendation.**
+  Chen Wang, **Yueqing Liang**, [Zhiwei Liu](https://sites.google.com/view/zhiwei-jim), Tao Zhang, Philip S. Yu.  
+Under Review. Nov. 2021.  
+\[[Paper](https://arxiv.org/pdf/2111.08268.pdf)\]
+
+<!-- Publications
 ======
-**NeuroMessenger: Towards Error Tolerant Distributed Machine Learning Over Edge Networks**  
+### 2022
+* **NeuroMessenger: Towards Error Tolerant Distributed Machine Learning Over Edge Networks**  
 **S. Wang**, X. Zhang  
 IEEE International Conference on Computer Communications 2022 (INFOCOM'22) 
 
-**HiveMind: Towards Cellular Native Machine Learning Model Splitting**([PDF](http://sowang46.github.io/files/hivemind.pdf))  
+### 2021
+* **HiveMind: Towards Cellular Native Machine Learning Model Splitting**([PDF](http://sowang46.github.io/files/hivemind.pdf))  
 **S. Wang**, X. Zhang, H. Uchiyama, H, Matsuda,  
 IEEE Journal on Selected Areas in Communications 2021 (JSAC) 
 
-**Demystifying Millimeter-Wave V2X: Towards Robust and Efficient
+* **Demystifying Millimeter-Wave V2X: Towards Robust and Efficient
 Directional Connectivity Under High Mobility**([PDF](http://sowang46.github.io/files/v2x.pdf))  
 **S. Wang**, J. Huang, X. Zhang,  
 ACM International Conference on Mobile Computing and Networking (MobiCom'20)  
 (62 out of 384 submissions, acceptance ratio: 16%)
 (Source code: [mmWave V2X 3D ray-tracing](http://m3.ucsd.edu/mmwave-v2x-testbed/))
-
-**X-Array: Approximating Omnidirectional Millimeter-Wave Coverage Using an Array of Phased-Arrays**([PDF](http://sowang46.github.io/files/xarray.pdf))  
-**S. Wang**, J. Huang, X. Zhang, H. Kim, S. Dey,  
-ACM International Conference on Mobile Computing and Networking (MobiCom'20)  
-(62 out of 384 submissions, acceptance ratio: 16%)
-
-**Robotic Millimeter-Wave Wireless Networks**([PDF](http://sowang46.github.io/files/robotic.pdf))  
-A. Zhou, S. Xu, **S. Wang**, J. Huang, S. Yang, T.Wei, X. Zhang; H, Ma, 
-IEEE/ACM Transactions on Networking (ToN'19)  
-
-**Robot Navigation in Radio Beam Space: Leveraging Robotic Intelligence for Seamless mmWave Network Coverage**([PDF](http://sowang46.github.io/files/robot.pdf))  
-A. Zhou, S. Xu, **S. Wang**, J. Huang, S. Yang, T.Wei, X. Zhang; H, Ma, 
-ACM International Symposium on Mobile Ad Hoc Networking and Computing (MobiHoc'19) 
-
-**KPad: Maximizing Channel Utilization for MU-MIMO Systems using
-Knapsack Padding**([PDF](http://sowang46.github.io/files/kpad.pdf))  
-**S. Wang**, J. Huang, A. Zhou,  
-IEEE International Conference on Communications 2018 Wireless Networking Symposium (ICC'18 WN)  
-
-CV
-=====
-[CV (PDF)](http://sowang46.github.io/files/CV_202102.pdf)
+ -->
