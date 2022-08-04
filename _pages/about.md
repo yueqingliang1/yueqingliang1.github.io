@@ -16,6 +16,26 @@ My research interests are in the broad areas of **machine learning** and **data 
  -->
 **<span style="color: indigo;">I am actively looking for research cooperation /summer internship positions related to machine learning fairness in United States. You can contact me via email (yliang40 AT hawk DOT iit DOT edu).</span>**
 
+
+## News
+
+<div class="highlight">
+  <pre>
+<li>[07/2022] Be invited to serve as a co-reviewer for <a href="https://icdm22.cse.usf.edu//">ICDM 2022</a>.</li>
+<li>[07/2022] Be invited to serve as a subreviewer for <a href="http://sbp-brims.org/2022//">SBP-BRiMS 2022</a>.</li>
+<li>[06/2022] Be invited to serve as a subreviewer for <a href="https://sites.google.com/nyu.edu/discoml/home/">DisCoML 2022</a>.</li>
+<li>[06/2022] Be invited to serve as a subreviewer for <a href="https://www.cikm2022.org/">CIKM 2022</a>.</li>
+<li>[04/2022] Be invited to serve as a subreviewer for <a href="https://www.computer.org/csdl/journal/tk/">TKDE</a>.</li>
+<li>[03/2022] Be invited to serve as a subreviewer for <a href="https://sigir.org/sigir2022//">SIGIR 2022</a>.</li>
+<li>[02/2022] Be invited to serve as a subreviewer for <a href="https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=6570650/">TCSS</a>.</li>
+<li>[02/2022] Be invited to serve as an external reviewer for <a href="https://www.kdd.org/kdd2022//">KDD 2022</a>.</li>
+<li>[01/2022] Be invited to serve as a subreviewer for <a href="https://www.siam.org/conferences/cm/conference/sdm22/">SDM 2022</a>.</li>
+<li>[01/2022] Be invited to serve as a subreviewer for <a href="https://www.sciencedirect.com/journal/knowledge-based-systems/">Knowledge-Based Systems</a>.</li>
+<li>[12/2021] Be invited to serve as a subreviewer for <a href="https://www.sciencedirect.com/journal/information-and-management/">Information & Management</a>.</li>
+  </pre>
+</div>
+
+
 <!-- News
 ======
 Dec 2021. Our paper **NeuroMessenger: Towards Error Tolerant Distributed Machine Learning Over Edge Networks** is accepted by IEEE INFOCOM 2022.
@@ -37,6 +57,7 @@ Advised by Mr. Hiromasa Uchiyama
 AT&T Research (Internship, 7/2019-9/2019)  
 Advised by Dr. Jin Wang  
  -->
+ 
 
 ## Publications
 ### 2022
