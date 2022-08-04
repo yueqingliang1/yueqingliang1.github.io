@@ -14,8 +14,12 @@ My research interests are in the broad areas of **machine learning** and **data 
 
 <!-- \[[View My Curriculum Vitae](https://yueqingliang1.github.io/files/CV_Yingtong.pdf)\]   
  -->
-**<span style="color: indigo;">I am actively looking for research cooperation /summer internship positions related to machine learning fairness in United States. You can contact me via email (yliang40 AT hawk DOT iit DOT edu).</span>**
+<!--
+-->
 
+<!--
+**<span style="color: indigo;">I am actively looking for research cooperation /summer internship positions related to machine learning fairness in United States. You can contact me via email (yliang40 AT hawk DOT iit DOT edu).</span>**
+-->
 
 ## News
 
