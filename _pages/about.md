@@ -10,11 +10,11 @@ redirect_from:
 ## Bio
 Hi there! This is Yueqing Liang (梁月清), you can call me Luna as well. I am currently a first-year Ph.D. student in the [Department of Computer Science](https://www.iit.edu/computer-science) at [Illinois Institute of Technology (IIT)](https://www.iit.edu) since Spring 2022, advised by [Prof. Kai Shu](http://www.cs.iit.edu/~kshu/). Before joining IIT, I received my Master degree in [Big Data in Business](https://www.sydney.edu.au/handbooks/archive/2019/business_school_PG/coursework/subject_areas/big_data_business.shtml.html) from the [University of Sydney (USYD)](https://www.sydney.edu.au) in 2020, and my Bachelor degree in [Telecommunications Engineering with Management](http://eecs.qmul.ac.uk/study-abroad/joint-programme-bupt/bupt-degree-programmes/#bteml) from [Queen Mary University of London (QMUL)](https://www.qmul.ac.uk) in 2018.
 
-My research interests are in the broad areas of **machine learning** and **data mining**, including several related topics like **fairness**, **recommender system**, and **privacy**.  
+My research interests are in the broad areas of **machine learning** and **data mining**, including several related topics like **fairness**, **recommender system**, and **transfer learning**.  
 
 <!-- \[[View My Curriculum Vitae](https://yueqingliang1.github.io/files/CV_Yingtong.pdf)\]   
  -->
-**<span style="color: indigo;">I am actively looking for research cooperation /summer internship positions related to machine learning fairness in United States. You can contact me via email (yueqingliang1 AT gmail DOT com) or WeChat (id: Luna_lyq).</span>**
+**<span style="color: indigo;">I am actively looking for research cooperation /summer internship positions related to machine learning fairness in United States. You can contact me via email (yliang40 AT hawk DOT iit DOT edu).</span>**
 
 <!-- News
 ======
@@ -39,10 +39,21 @@ Advised by Dr. Jin Wang
  -->
 
 ## Publications
+### 2022
+  * **On Fair Classification with Mostly Private Sensitive Attributes.**  
+  Canyu Chen, **Yueqing Liang**, Xiongxiao Xu, [Shangyu Xie](https://scholar.google.com/citations?user=fZXYI2wAAAAJ&hl=en), [Yuan Hong](https://yhongcs.github.io/index.html), [Kai Shu](http://www.cs.iit.edu/~kshu/).  
+arXiv preprint. Jul. 2022.  
+\[[Paper](https://arxiv.org/abs/2207.08336)\]
+
+  * **Joint Adversarial Learning for Cross-domain Fair Classification.**  
+  **Yueqing Liang**, Canyu Chen, [Tian Tian](https://www.linkedin.com/in/tian-tian-3b0a9bb0/), [Kai Shu](http://www.cs.iit.edu/~kshu/).  
+arXiv preprint. Jun. 2022.  
+\[[Paper](https://arxiv.org/abs/2206.03656)\]
+
 ### 2021
   * **Pre-training Graph Neural Network for Cross Domain Recommendation.**  
   Chen Wang, **Yueqing Liang**, [Zhiwei Liu](https://sites.google.com/view/zhiwei-jim), Tao Zhang, Philip S. Yu.  
-Invited paper on vision track (**CogMI 2021**)  
+IEEE CogMI. 2021.  
 \[[Paper](https://arxiv.org/abs/2111.08268)\]
 
 <!-- Publications
