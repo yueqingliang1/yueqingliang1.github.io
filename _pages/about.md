@@ -36,27 +36,6 @@ My research interests are in the broad areas of **machine learning** and **data 
 </div>
 
 
-<!-- News
-======
-Dec 2021. Our paper **NeuroMessenger: Towards Error Tolerant Distributed Machine Learning Over Edge Networks** is accepted by IEEE INFOCOM 2022.
-
-Sep 2021. Our paper **HiveMind: Towards Cellular Native Machine Learning Model Splitting** is accepted by IEEE JSAC.
-
-Aug 2020. A first version of our [3D ray tracing code and data](http://m3.ucsd.edu/mmwave-v2x-testbed/) has been released.
-
-Jul 2020. Our paper **Demystifying Millimeter-Wave V2X: Towards Robust and Efficient Directional Connectivity Under High Mobility** is accepted by Mobicom’20
-
-Feb 2020. Our paper **X-Array: Approximating Omnidirectional Millimeter-Wave Coverage Using an Array of Phased Arrays** is accepted by Mobicom’20.
- -->
- 
-<!-- Experience
-======
-Sony Corporation Tokyo (Collaboration, 9/2020-Present)  
-Advised by Mr. Hiromasa Uchiyama  
-
-AT&T Research (Internship, 7/2019-9/2019)  
-Advised by Dr. Jin Wang  
- -->
  
 
 ## Publications
@@ -77,22 +56,4 @@ arXiv preprint. Jun. 2022.
 IEEE CogMI. 2021.  
 \[[Paper](https://arxiv.org/abs/2111.08268)\]
 
-<!-- Publications
-======
-### 2022
-* **NeuroMessenger: Towards Error Tolerant Distributed Machine Learning Over Edge Networks**  
-**S. Wang**, X. Zhang  
-IEEE International Conference on Computer Communications 2022 (INFOCOM'22) 
 
-### 2021
-* **HiveMind: Towards Cellular Native Machine Learning Model Splitting**([PDF](http://sowang46.github.io/files/hivemind.pdf))  
-**S. Wang**, X. Zhang, H. Uchiyama, H, Matsuda,  
-IEEE Journal on Selected Areas in Communications 2021 (JSAC) 
-
-* **Demystifying Millimeter-Wave V2X: Towards Robust and Efficient
-Directional Connectivity Under High Mobility**([PDF](http://sowang46.github.io/files/v2x.pdf))  
-**S. Wang**, J. Huang, X. Zhang,  
-ACM International Conference on Mobile Computing and Networking (MobiCom'20)  
-(62 out of 384 submissions, acceptance ratio: 16%)
-(Source code: [mmWave V2X 3D ray-tracing](http://m3.ucsd.edu/mmwave-v2x-testbed/))
- -->
