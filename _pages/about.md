@@ -25,6 +25,7 @@ My research interests are in the broad areas of **machine learning** and **data 
 
 <div class="highlight">
   <pre>
+<li>[08/2022] Be invited to serve as an external reviewer for <a href="https://www.wsdm-conference.org/2022/">WSDM 2022</a>.</li>
 <li>[07/2022] Be invited to serve as a co-reviewer for <a href="https://icdm22.cse.usf.edu//">ICDM 2022</a>.</li>
 <li>[07/2022] Be invited to serve as a subreviewer for <a href="http://sbp-brims.org/2022//">SBP-BRiMS 2022</a>.</li>
 <li>[06/2022] Be invited to serve as a subreviewer for <a href="https://sites.google.com/nyu.edu/discoml/home/">DisCoML 2022</a>.</li>
@@ -44,6 +45,11 @@ My research interests are in the broad areas of **machine learning** and **data 
 
 ## Publications
 ### 2022
+  * **Artificial Intelligence Algorithms for Treatment of Diabetes.**  
+  Mudassir M. Rashid, Mohammad Reza Askari, Canyu Chen, **Yueqing Liang**, [Kai Shu](http://www.cs.iit.edu/~kshu/), [Ali Cinar](https://sites.google.com/iit.edu/ali-cinar).  
+*Algorithms* 2022, 15, 299. https://doi.org/10.3390/a15090299  
+\[[Paper](https://www.mdpi.com/1999-4893/15/9/299)\]
+
   * **On Fair Classification with Mostly Private Sensitive Attributes.**  
   Canyu Chen, **Yueqing Liang**, Xiongxiao Xu, [Shangyu Xie](https://scholar.google.com/citations?user=fZXYI2wAAAAJ&hl=en), [Yuan Hong](https://yhongcs.github.io/index.html), [Kai Shu](http://www.cs.iit.edu/~kshu/).  
 arXiv preprint. Jul. 2022.  
