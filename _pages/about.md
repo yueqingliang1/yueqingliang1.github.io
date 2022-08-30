@@ -47,7 +47,7 @@ My research interests are in the broad areas of **machine learning** and **data 
 ### 2022
   * **Artificial Intelligence Algorithms for Treatment of Diabetes.**  
   Mudassir M. Rashid, Mohammad Reza Askari, Canyu Chen, **Yueqing Liang**, [Kai Shu](http://www.cs.iit.edu/~kshu/), [Ali Cinar](https://sites.google.com/iit.edu/ali-cinar).  
-*Algorithms* 2022, 15, 299.  
+*Algorithms* 2022, 15(9), 299.  
 \[[Paper](https://www.mdpi.com/1999-4893/15/9/299)\]
 
   * **On Fair Classification with Mostly Private Sensitive Attributes.**  
