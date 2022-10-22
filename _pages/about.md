@@ -56,7 +56,7 @@ My research interests are in the broad areas of **machine learning** and **data 
 
   * **On Fair Classification with Mostly Private Sensitive Attributes.**  
   [Canyu Chen](https://canyuchen.com/), **Yueqing Liang**, Xiongxiao Xu, [Shangyu Xie](https://scholar.google.com/citations?user=fZXYI2wAAAAJ&hl=en), [Yuan Hong](https://yhongcs.github.io/index.html), [Kai Shu](http://www.cs.iit.edu/~kshu/).  
-arXiv preprint. Jul. 2022.  
+*Advances in Neural Information Processing Systems(NeurIPS), Workshop*, 2022.  
 \[[Paper](https://arxiv.org/abs/2207.08336)\]
 
   * **Joint Adversarial Learning for Cross-domain Fair Classification.**  
@@ -67,7 +67,7 @@ arXiv preprint. Jun. 2022.
 ### 2021
   * **Pre-training Graph Neural Network for Cross Domain Recommendation.**  
   Chen Wang, **Yueqing Liang**, [Zhiwei Liu](https://sites.google.com/view/zhiwei-jim), Tao Zhang, Philip S. Yu.  
-IEEE CogMI. 2021.  
+*IEEE CogMI*. 2021.  
 \[[Paper](https://arxiv.org/abs/2111.08268)\]
 
 
