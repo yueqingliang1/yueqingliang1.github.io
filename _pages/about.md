@@ -59,10 +59,10 @@ My research interests are in the broad areas of **machine learning** and **data 
 *Advances in Neural Information Processing Systems(NeurIPS), Workshop*, 2022.  
 \[[Paper](https://arxiv.org/abs/2207.08336)\]
 
-  * **Joint Adversarial Learning for Cross-domain Fair Classification.**  
+  * **Fair Classification via Domain Adaptation: A Dual Adversarial Learning Approach.**  
   **Yueqing Liang**, [Canyu Chen](https://canyuchen.com/), [Tian Tian](https://www.linkedin.com/in/tian-tian-3b0a9bb0/), [Kai Shu](http://www.cs.iit.edu/~kshu/).  
-arXiv preprint. Jun. 2022.  
-\[[Paper](https://arxiv.org/abs/2206.03656)\]
+Frontiers in Big Data. Jan. 2023.  
+\[[Paper](https://www.frontiersin.org/articles/10.3389/fdata.2022.1049565/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Big_Data&id=1049565)\]
 
 ### 2021
   * **Pre-training Graph Neural Network for Cross Domain Recommendation.**  
