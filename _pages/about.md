@@ -60,7 +60,7 @@ Frontiers in Big Data 5, 129. Jan. 2023.
 \[[Paper](https://www.mdpi.com/1999-4893/15/9/299)\]
 
   * **On Fair Classification with Mostly Private Sensitive Attributes.**  
-  [Canyu Chen](https://canyuchen.com/), **Yueqing Liang**, Xiongxiao Xu, [Shangyu Xie](https://scholar.google.com/citations?user=fZXYI2wAAAAJ&hl=en), [Yuan Hong](https://yhongcs.github.io/index.html), [Kai Shu](http://www.cs.iit.edu/~kshu/).  
+  [Canyu Chen](https://canyuchen.com/), **Yueqing Liang**, [Xiongxiao Xu](https://xiongxiaoxu.github.io/), [Shangyu Xie](https://scholar.google.com/citations?user=fZXYI2wAAAAJ&hl=en), [Yuan Hong](https://yhongcs.github.io/index.html), [Kai Shu](http://www.cs.iit.edu/~kshu/).  
 *Advances in Neural Information Processing Systems(NeurIPS), Workshop*, 2022.  
 \[[Paper](https://arxiv.org/abs/2207.08336)\]
 
