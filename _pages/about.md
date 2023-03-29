@@ -61,7 +61,8 @@ Frontiers in Big Data 5, 129. Jan. 2023.
 
   * **On Fair Classification with Mostly Private Sensitive Attributes.**  
   [Canyu Chen](https://canyuchen.com/), **Yueqing Liang**, [Xiongxiao Xu](https://xiongxiaoxu.github.io/), [Shangyu Xie](https://scholar.google.com/citations?user=fZXYI2wAAAAJ&hl=en), [Yuan Hong](https://yhongcs.github.io/index.html), [Kai Shu](http://www.cs.iit.edu/~kshu/).  
-*Advances in Neural Information Processing Systems(NeurIPS), Workshop*, 2022.  
+<!-- *Advances in Neural Information Processing Systems(NeurIPS), Workshop*, 2022.   -->
+*Advances in Neural Information Processing Systems workshop on Trustworthy and Socially Responsible Machine Learning* (**TSRML@NeurIPS 2022**) and *workshop on Algorithmic Fairness through the Lens of Causality and Privacy* (**AFCP@NeurIPS 2022**).
 \[[Paper](https://arxiv.org/abs/2207.08336)\]
 
 
