@@ -48,12 +48,13 @@ My research interests are in the broad areas of **machine learning** and **data 
  
 
 ## Publications
-### 2022
+### 2023
   * **Fair Classification via Domain Adaptation: A Dual Adversarial Learning Approach.**  
   **Yueqing Liang**, [Canyu Chen](https://canyuchen.com/), [Tian Tian](https://www.linkedin.com/in/tian-tian-3b0a9bb0/), [Kai Shu](http://www.cs.iit.edu/~kshu/).  
-Frontiers in Big Data 5, 129. Jan. 2023.  
+*Frontiers in Big Data* 5, 129. Jan. 2023.  
 \[[Paper](https://www.frontiersin.org/articles/10.3389/fdata.2022.1049565/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Big_Data&id=1049565)\]
 
+### 2022
   * **Artificial Intelligence Algorithms for Treatment of Diabetes.**  
   [Mudassir M. Rashid](https://scholar.google.com/citations?user=F3OZmPoAAAAJ&hl=en), [Mohammad Reza Askari](https://scholar.google.com/citations?user=njl6K6VfGlAC&hl=en), [Canyu Chen](https://canyuchen.com/), **Yueqing Liang**, [Kai Shu](http://www.cs.iit.edu/~kshu/), [Ali Cinar](https://sites.google.com/iit.edu/ali-cinar).  
 *Algorithms* 2022, 15(9), 299.  
@@ -61,9 +62,9 @@ Frontiers in Big Data 5, 129. Jan. 2023.
 
   * **On Fair Classification with Mostly Private Sensitive Attributes.**  
   [Canyu Chen](https://canyuchen.com/), **Yueqing Liang**, [Xiongxiao Xu](https://xiongxiaoxu.github.io/), [Shangyu Xie](https://scholar.google.com/citations?user=fZXYI2wAAAAJ&hl=en), [Yuan Hong](https://yhongcs.github.io/index.html), [Kai Shu](http://www.cs.iit.edu/~kshu/).  
-<!-- *Advances in Neural Information Processing Systems(NeurIPS), Workshop*, 2022.   -->
-*Advances in Neural Information Processing Systems workshop on Trustworthy and Socially Responsible Machine Learning* (**TSRML@NeurIPS 2022**) and *workshop on Algorithmic Fairness through the Lens of Causality and Privacy* (**AFCP@NeurIPS 2022**).
+  *Advances in Neural Information Processing Systems workshop on Trustworthy and Socially Responsible Machine Learning* (**TSRML@NeurIPS 2022**) and *workshop on Algorithmic Fairness through the Lens of Causality and Privacy* (**AFCP@NeurIPS 2022**).  
 \[[Paper](https://arxiv.org/abs/2207.08336)\]
+<!-- *Advances in Neural Information Processing Systems(NeurIPS), Workshop*, 2022.   -->
 
 
 
