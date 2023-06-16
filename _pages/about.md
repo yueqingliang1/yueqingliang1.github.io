@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 ## Bio
-Hi there! This is Yueqing Liang (梁月清), you can call me Luna as well. I am currently a first-year Ph.D. student in the Department of Computer Science at Illinois Institute of Technology (IIT) since Spring 2022, advised by [Prof. Kai Shu](http://www.cs.iit.edu/~kshu/). Before joining IIT, I received my *M.S.* in Big Data in Business from the *University of Sydney (USYD)* in 2020, and my *B.E.* in Telecommunications Engineering with Management from *Queen Mary University of London (QMUL)* in 2018.
+Hi! This is Yueqing Liang (梁月清), you can call me Luna as well. I am currently a second-year Ph.D. student in the Department of Computer Science at Illinois Institute of Technology (IIT) since Spring 2022, advised by [Prof. Kai Shu](http://www.cs.iit.edu/~kshu/). Before joining IIT, I received my *M.S.* in Big Data in Business from the *University of Sydney (USYD)* in 2020, and my *B.E.* in Telecommunications Engineering with Management from *Queen Mary University of London (QMUL)* in 2018.
 
 <!--
 Hi there! This is Yueqing Liang (梁月清), you can call me Luna as well. I am currently a first-year Ph.D. student in the [Department of Computer Science](https://www.iit.edu/computer-science) at [Illinois Institute of Technology (IIT)](https://www.iit.edu) since Spring 2022, advised by [Prof. Kai Shu](http://www.cs.iit.edu/~kshu/). Before joining IIT, I received my Master degree in [Big Data in Business](https://www.sydney.edu.au/handbooks/archive/2019/business_school_PG/coursework/subject_areas/big_data_business.shtml.html) from the [University of Sydney (USYD)](https://www.sydney.edu.au) in 2020, and my Bachelor degree in [Telecommunications Engineering with Management](http://eecs.qmul.ac.uk/study-abroad/joint-programme-bupt/bupt-degree-programmes/#bteml) from [Queen Mary University of London (QMUL)](https://www.qmul.ac.uk) in 2018.
 -->
 
-My research interests are in the broad areas of **machine learning** and **data mining**, including several related topics like **fairness**, **recommender system**, and **transfer learning**.  
+My research interests are in the broad areas of **data mining** and **machine learning**, including several related topics like **fairness**, **recommender systems**, and **transfer learning**.  
 
 <!-- \[[View My Curriculum Vitae](https://yueqingliang1.github.io/files/CV_Yingtong.pdf)\]   
  -->
@@ -29,6 +29,11 @@ My research interests are in the broad areas of **machine learning** and **data 
 
 <div class="highlight">
   <pre>
+<li>[06/2023] Attended <a href="https://facctconference.org/2023/">FAccT 2023</a> in Chicago.</li>
+<li>[06/2023] Be invited to serve as an external reviewer for <a href="https://uobevents.eventsair.com/cikm2023//">CIKM 2023</a>.</li>
+<li>[05/2023] Attended <a href="https://www.midwest-ml.org/2023/">MMLS 2023</a> in Chicago.</li>
+<li>[04/2023] Be invited to serve as an external reviewer for <a href="https://2023.ecmlpkdd.org/">ECML PKDD 2023</a>.</li>
+<li>[02/2023] Be invited to serve as an external reviewer for <a href="https://sigir.org/sigir2023/">SIGIR 2023</a>.</li>
 <li>[08/2022] Be invited to serve as an external reviewer for <a href="https://www.wsdm-conference.org/2022/">WSDM 2022</a>.</li>
 <li>[07/2022] Be invited to serve as a co-reviewer for <a href="https://icdm22.cse.usf.edu//">ICDM 2022</a>.</li>
 <li>[07/2022] Be invited to serve as a subreviewer for <a href="http://sbp-brims.org/2022//">SBP-BRiMS 2022</a>.</li>
@@ -49,6 +54,12 @@ My research interests are in the broad areas of **machine learning** and **data 
 
 ## Publications
 ### 2023
+  * **Investigating Gender Euphoria and Dysphoria on TikTok: Characterization and Comparison.**  
+  [SJ Dillon](https://anthropology.emory.edu/people/grad_bios/dillon-sj.html)\*, **Yueqing Liang**\*, [H Russell Bernard](https://hrussellbernard.com/), [Kai Shu](http://www.cs.iit.edu/~kshu/).  
+*arXiv preprint*, May 2023.  
+\[[Paper](https://arxiv.org/abs/2305.19552)\]
+
+
   * **Fair Classification via Domain Adaptation: A Dual Adversarial Learning Approach.**  
   **Yueqing Liang**, [Canyu Chen](https://canyuchen.com/), [Tian Tian](https://www.linkedin.com/in/tian-tian-3b0a9bb0/), [Kai Shu](http://www.cs.iit.edu/~kshu/).  
 *Frontiers in Big Data* 5, 129. Jan. 2023.  
