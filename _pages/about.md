@@ -29,6 +29,8 @@ My research interests are in the broad areas of **data mining** and **machine le
 
 <div class="highlight">
   <pre>
+<li>[07/2023] Be invited to serve as a PC member for <a href="https://aaai.org/aaai-conference/">AAAI 2024</a>.</li>
+<li>[07/2023] Be invited to serve as an external reviewer for <a href="https://www.cloud-conf.net/icdm2023/">ICDM 2023</a>.</li>
 <li>[07/2023] Be invited to serve as a PC member for <a href="https://asonam.cpsc.ucalgary.ca/2023/index.html//">ASONAM 2023</a>.</li>
 <li>[06/2023] Attended <a href="https://facctconference.org/2023/">FAccT 2023</a> in Chicago.</li>
 <li>[06/2023] Be invited to serve as an external reviewer for <a href="https://uobevents.eventsair.com/cikm2023//">CIKM 2023</a>.</li>
