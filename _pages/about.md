@@ -58,7 +58,7 @@ My research interests are in the broad areas of **data mining** and **machine le
 ## Publications
 ### 2023
   * **Investigating Gender Euphoria and Dysphoria on TikTok: Characterization and Comparison.**  
-  [SJ Dillon](https://anthropology.emory.edu/people/grad_bios/dillon-sj.html)\*, **Yueqing Liang**\*, [H Russell Bernard](https://hrussellbernard.com/), [Kai Shu](http://www.cs.iit.edu/~kshu/).  
+  [SJ Dillon](https://anthropology.emory.edu/people/grad_bios/dillon-sj.html)\*, **Yueqing Liang**\*(co-primary), [H Russell Bernard](https://hrussellbernard.com/), [Kai Shu](http://www.cs.iit.edu/~kshu/).  
 *arXiv preprint*, May 2023.  
 \[[Paper](https://arxiv.org/abs/2305.19552)\]
 
@@ -84,7 +84,7 @@ My research interests are in the broad areas of **data mining** and **machine le
 
 ### 2021
   * **Pre-training Graph Neural Network for Cross Domain Recommendation.**  
-  Chen Wang, **Yueqing Liang**, [Zhiwei Liu](https://sites.google.com/view/zhiwei-jim), Tao Zhang, Philip S. Yu.  
+  [Chen Wang](https://scholar.google.com/citations?user=9xS58ucAAAAJ&hl=en), **Yueqing Liang**, [Zhiwei Liu](https://sites.google.com/view/zhiwei-jim), Tao Zhang, [Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ&hl=en).  
 *IEEE CogMI*. 2021.  
 \[[Paper](https://arxiv.org/abs/2111.08268)\]
 
