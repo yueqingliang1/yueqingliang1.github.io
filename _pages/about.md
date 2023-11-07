@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 ## Bio
-Hi! This is Yueqing Liang (梁月清), you can call me Luna as well. I am currently a second-year Ph.D. student in the Department of Computer Science at Illinois Institute of Technology (IIT) since Spring 2022, advised by [Prof. Kai Shu](http://www.cs.iit.edu/~kshu/). Before joining IIT, I received my *M.S.* in Big Data in Business from the *University of Sydney (USYD)* in 2020, and my *B.E.* in Telecommunications Engineering with Management from *Queen Mary University of London (QMUL)* in 2018. You can find my [CV](http://yueqingliang1.github.io/files/Yueqing_Liang_CV.pdf) here. 
+Hi! This is Yueqing Liang (梁月清), you can call me Luna as well. I am currently a second-year Ph.D. student in the Department of Computer Science at Illinois Institute of Technology (IIT) since Spring 2022, advised by [Prof. Kai Shu](http://www.cs.iit.edu/~kshu/). Before joining IIT, I received my *M.S.* in Big Data in Business from the *University of Sydney (USYD)* in 2020, and my *B.E.* in Telecommunications Engineering with Management from *Queen Mary University of London (QMUL)* in 2018. 
+<!-- You can find my [CV](http://yueqingliang1.github.io/files/Yueqing_Liang_CV.pdf) here. -->
 
 <!--
 Hi there! This is Yueqing Liang (梁月清), you can call me Luna as well. I am currently a first-year Ph.D. student in the [Department of Computer Science](https://www.iit.edu/computer-science) at [Illinois Institute of Technology (IIT)](https://www.iit.edu) since Spring 2022, advised by [Prof. Kai Shu](http://www.cs.iit.edu/~kshu/). Before joining IIT, I received my Master degree in [Big Data in Business](https://www.sydney.edu.au/handbooks/archive/2019/business_school_PG/coursework/subject_areas/big_data_business.shtml.html) from the [University of Sydney (USYD)](https://www.sydney.edu.au) in 2020, and my Bachelor degree in [Telecommunications Engineering with Management](http://eecs.qmul.ac.uk/study-abroad/joint-programme-bupt/bupt-degree-programmes/#bteml) from [Queen Mary University of London (QMUL)](https://www.qmul.ac.uk) in 2018.
@@ -68,6 +69,11 @@ My research interests are in the broad areas of **data mining** and **machine le
 *Frontiers in Big Data* 5, 129. Jan. 2023.  
 \[[Paper](https://www.frontiersin.org/articles/10.3389/fdata.2022.1049565/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Big_Data&id=1049565)\]
 
+  * **Collaborative Contextualization: Bridging the Gap between Collaborative Filtering and Pre-trained Language Model.**  
+  [Chen Wang](https://scholar.google.com/citations?user=9xS58ucAAAAJ&hl=en), [Liangwei Yang](https://yangliangwei.github.io/), [Zhiwei Liu](https://sites.google.com/view/zhiwei-jim), [Xiaolong Liu](https://scholar.google.com/citations?user=ooBkvK4AAAAJ&hl=en), [Mingdai Yang](https://scholar.google.com/citations?user=1h0mbWoAAAAJ&hl=zh-CN), **Yueqing Liang**, [Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ&hl=en).  
+*arXiv preprint*, Oct 2023.  
+\[[Paper](https://arxiv.org/abs/2310.09400)\]
+
 ### 2022
   * **Artificial Intelligence Algorithms for Treatment of Diabetes.**  
   [Mudassir M. Rashid](https://scholar.google.com/citations?user=F3OZmPoAAAAJ&hl=en), [Mohammad Reza Askari](https://scholar.google.com/citations?user=njl6K6VfGlAC&hl=en), [Canyu Chen](https://canyuchen.com/), **Yueqing Liang**, [Kai Shu](http://www.cs.iit.edu/~kshu/), [Ali Cinar](https://sites.google.com/iit.edu/ali-cinar).  
@@ -83,7 +89,7 @@ My research interests are in the broad areas of **data mining** and **machine le
 
 
 ### 2021
-  * **Pre-training Graph Neural Network for Cross Domain Recommendation.**  
+  * **Pre-training Graph Neural Network for Cross-Domain Recommendation.**  
   [Chen Wang](https://scholar.google.com/citations?user=9xS58ucAAAAJ&hl=en), **Yueqing Liang**, [Zhiwei Liu](https://sites.google.com/view/zhiwei-jim), Tao Zhang, [Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ&hl=en).  
 *IEEE CogMI*. 2021.  
 \[[Paper](https://arxiv.org/abs/2111.08268)\]
