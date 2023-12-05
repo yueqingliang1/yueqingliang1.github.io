@@ -58,6 +58,12 @@ My research interests are in the broad areas of **data mining** and **machine le
 
 ## Publications
 ### 2023
+
+  * **Beyond Detection: Unveiling Fairness Vulnerabilities in Abusive Language Models.**  
+  **Yueqing Liang**, [Lu Cheng](https://lcheng.org/), [Ali Payani](https://scholar.google.com/citations?user=9rHwD8wAAAAJ&hl=en), [Kai Shu](http://www.cs.iit.edu/~kshu/).  
+*arXiv preprint*, Nov 2023.  
+\[[Paper](https://arxiv.org/abs/2311.09428)\]
+
   * **Investigating Gender Euphoria and Dysphoria on TikTok: Characterization and Comparison.**  
   [SJ Dillon](https://anthropology.emory.edu/people/grad_bios/dillon-sj.html)\*, **Yueqing Liang**\*(co-primary), [H Russell Bernard](https://hrussellbernard.com/), [Kai Shu](http://www.cs.iit.edu/~kshu/).  
 *arXiv preprint*, May 2023.  
