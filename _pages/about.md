@@ -65,6 +65,17 @@ My research interests are in the broad areas of **data mining** and **machine le
 
 ## Publications
 ### 2024
+
+  * **Taxonomy-Guided Zero-Shot Recommendations with LLMs.**  
+  **Yueqing Liang**, [Liangwei Yang](https://yangliangwei.github.io/), [Chen Wang](https://scholar.google.com/citations?user=9xS58ucAAAAJ&hl=en), [Xiongxiao Xu](https://xiongxiaoxu.github.io/), [Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ&hl=en), [Kai Shu](http://www.cs.iit.edu/~kshu/).  
+  *arXiv preprint*, Jun 2024.  
+\[[Paper](https://arxiv.org/abs/2406.14043)\]
+
+  * **SST: Multi-Scale Hybrid Mamba-Transformer Experts for Long-Short Range Time Series Forecasting.**  
+  [Xiongxiao Xu](https://xiongxiaoxu.github.io/), **Yueqing Liang**, [Baixiang Huang](https://baixianghuang.github.io/), [Zhiling Lan](https://lanzhiling.github.io/), [Kai Shu](http://www.cs.iit.edu/~kshu/).  
+  *arXiv preprint*, Apr 2024.  
+\[[Paper](https://arxiv.org/abs/2404.14757)\]
+
   * **Confidence-aware Fine-tuning of Sequential Recommendation Systems via Conformal Prediction.**  
   [Chen Wang](https://scholar.google.com/citations?user=9xS58ucAAAAJ&hl=en), [Fangxin Wang](https://fangxin-wang.github.io/), [Ruocheng Guo](https://scholar.google.com/citations?user=8Nuj8NwAAAAJ), **Yueqing Liang**, [Kay Liu](https://kayzliu.com/), [Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ&hl=en).  
   *arXiv preprint*, Feb 2024.  
@@ -90,7 +101,7 @@ My research interests are in the broad areas of **data mining** and **machine le
 
   * **Investigating Gender Euphoria and Dysphoria on TikTok: Characterization and Comparison.**  
   [SJ Dillon](https://anthropology.emory.edu/people/grad_bios/dillon-sj.html)\*, **Yueqing Liang**\*(co-primary), [H Russell Bernard](https://hrussellbernard.com/), [Kai Shu](http://www.cs.iit.edu/~kshu/).  
-  *arXiv preprint*, May 2023.  
+  *International Conference on Advances in Social Networks Analysis and Mining* (**ASONAM 2024**).  
 \[[Paper](https://arxiv.org/abs/2305.19552)\]
 
   * **Fair Classification via Domain Adaptation: A Dual Adversarial Learning Approach.**  
