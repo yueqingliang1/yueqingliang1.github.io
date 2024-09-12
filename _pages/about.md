@@ -34,36 +34,43 @@ My research interests are in the broad areas of **data mining** and **machine le
     <li>[Aug 2023] Our paper <a href="https://imyday.github.io/pub/asonam2024/pdf/papers/1324_115.pdf">Investigating Gender Euphoria and Dysphoria on TikTok: Characterization and Comparison</a> is accepted by <strong><em>ASONAM 2024</em></strong>.</li>
     <li>[Jul 2023] Our paper <a href="https://arxiv.org/abs/2310.09400">Collaborative Contextualization: Bridging the Gap between Collaborative Filtering and Pre-trained Language Model</a> is accepted by <strong><em>CIKM 2024</em></strong>.</li>
     <li>[Jun 2024] New preprint is online <a href="https://arxiv.org/abs/2406.14043">Taxonomy-Guided Zero-Shot Recommendations with LLMs</a>.</li>
-    <li>[Feb 2024] Be invited to serve as a PC member for <a href="https://kdd2024.kdd.org/">KDD 2024</a>.</li>
-    <li>[Feb 2024] New preprint is online <a href="https://arxiv.org/abs/2402.08976">Confidence-aware Fine-tuning of Sequential Recommendation Systems via Conformal Prediction</a>.</li>
-    <li>[Feb 2024] Be invited to serve as a PC member for <a href="https://socialmediaandsociety.org/">SMSociety 2024</a>.</li>
-    <li>[Jan 2024] New preprint is online <a href="https://arxiv.org/abs/2401.09090">Understanding the Concerns and Choices of Public when Using Large Language Models for Healthcare</a>.</li>
-    <li>[Jan 2024] Honored to be selected to participate <a href="https://web.cvent.com/event/af32de64-9853-4aff-a0c9-b0dc590dd1e8/summary">2024 CRA-WP Grad Cohort for Women</a>. Looking forward to meeting you in April in Minneapolis!</li>
-    <li>[Dec 2023] Be invited to serve as a PC member for <a href="https://pakdd2024.org/">PAKDD 2024</a>.</li>
-    <li>[Nov 2023] Be invited to serve as a PC member for <a href="https://www2024.thewebconf.org/">The Web Conference 2024</a>.</li>
-    <li>[Jul 2023] Be invited to serve as a PC member for <a href="https://aaai.org/aaai-conference/">AAAI 2024</a>.</li>
-    <li>[Jul 2023] Be invited to serve as an external reviewer for <a href="https://www.cloud-conf.net/icdm2023/">ICDM 2023</a>.</li>
-    <li>[Jul 2023] Be invited to serve as a PC member for <a href="https://asonam.cpsc.ucalgary.ca/2023/index.html//">ASONAM 2023</a>.</li>
-    <li>[Jun 2023] Attended <a href="https://facctconference.org/2023/">FAccT 2023</a> in Chicago.</li>
-    <li>[Jun 2023] Be invited to serve as an external reviewer for <a href="https://uobevents.eventsair.com/cikm2023//">CIKM 2023</a>.</li>
-    <li>[May 2023] Attended <a href="https://www.midwest-ml.org/2023/">MMLS 2023</a> in Chicago.</li>
-    <li>[Apr 2023] Be invited to serve as an external reviewer for <a href="https://2023.ecmlpkdd.org/">ECML PKDD 2023</a>.</li>
-    <li>[Feb 2023] Be invited to serve as an external reviewer for <a href="https://sigir.org/sigir2023/">SIGIR 2023</a>.</li>
-    <li>[Jan 2023] Our paper <a href="https://www.frontiersin.org/articles/10.3389/fdata.2022.1049565/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Big_Data&id=1049565">Fair Classification via Domain Adaptation: A Dual Adversarial Learning Approach</a> is accepted by <strong><em>Frontiers in Big Data</em></strong>.</li>
-    <li>[Aug 2022] Be invited to serve as an external reviewer for <a href="https://www.wsdm-conference.org/2022/">WSDM 2022</a>.</li>
-    <li>[Jul 2022] Be invited to serve as a co-reviewer for <a href="https://icdm22.cse.usf.edu//">ICDM 2022</a>.</li>
-    <li>[Jul 2022] Be invited to serve as a subreviewer for <a href="http://sbp-brims.org/2022//">SBP-BRiMS 2022</a>.</li>
-    <li>[Jun 2022] Be invited to serve as a subreviewer for <a href="https://sites.google.com/nyu.edu/discoml/home/">DisCoML 2022</a>.</li>
-    <li>[Jun 2022] Be invited to serve as a subreviewer for <a href="https://www.cikm2022.org/">CIKM 2022</a>.</li>
-    <li>[Apr 2022] Be invited to serve as a subreviewer for <a href="https://www.computer.org/csdl/journal/tk/">TKDE</a>.</li>
-    <li>[Mar 2022] Be invited to serve as a subreviewer for <a href="https://sigir.org/sigir2022//">SIGIR 2022</a>.</li>
-    <li>[Feb 2022] Be invited to serve as a subreviewer for <a href="https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=6570650/">TCSS</a>.</li>
-    <li>[Feb 2022] Be invited to serve as an external reviewer for <a href="https://www.kdd.org/kdd2022//">KDD 2022</a>.</li>
-    <li>[Jan 2022] Be invited to serve as a subreviewer for <a href="https://www.siam.org/conferences/cm/conference/sdm22/">SDM 2022</a>.</li>
-    <li>[Jan 2022] Be invited to serve as a subreviewer for <a href="https://www.sciencedirect.com/journal/knowledge-based-systems/">Knowledge-Based Systems</a>.</li>
-    <li>[Dec 2021] Be invited to serve as a subreviewer for <a href="https://www.sciencedirect.com/journal/information-and-management/">Information & Management</a>.</li>
   </ul>
+  
+  <details>
+    <summary>View older news</summary>
+    <ul>
+      <li>[Feb 2024] Be invited to serve as a PC member for <a href="https://kdd2024.kdd.org/">KDD 2024</a>.</li>
+      <li>[Feb 2024] New preprint is online <a href="https://arxiv.org/abs/2402.08976">Confidence-aware Fine-tuning of Sequential Recommendation Systems via Conformal Prediction</a>.</li>
+      <li>[Feb 2024] Be invited to serve as a PC member for <a href="https://socialmediaandsociety.org/">SMSociety 2024</a>.</li>
+      <li>[Jan 2024] New preprint is online <a href="https://arxiv.org/abs/2401.09090">Understanding the Concerns and Choices of Public when Using Large Language Models for Healthcare</a>.</li>
+      <li>[Jan 2024] Honored to be selected to participate <a href="https://web.cvent.com/event/af32de64-9853-4aff-a0c9-b0dc590dd1e8/summary">2024 CRA-WP Grad Cohort for Women</a>. Looking forward to meeting you in April in Minneapolis!</li>
+      <li>[Dec 2023] Be invited to serve as a PC member for <a href="https://pakdd2024.org/">PAKDD 2024</a>.</li>
+      <li>[Nov 2023] Be invited to serve as a PC member for <a href="https://www2024.thewebconf.org/">The Web Conference 2024</a>.</li>
+      <li>[Jul 2023] Be invited to serve as a PC member for <a href="https://aaai.org/aaai-conference/">AAAI 2024</a>.</li>
+      <li>[Jul 2023] Be invited to serve as an external reviewer for <a href="https://www.cloud-conf.net/icdm2023/">ICDM 2023</a>.</li>
+      <li>[Jul 2023] Be invited to serve as a PC member for <a href="https://asonam.cpsc.ucalgary.ca/2023/index.html//">ASONAM 2023</a>.</li>
+      <li>[Jun 2023] Attended <a href="https://facctconference.org/2023/">FAccT 2023</a> in Chicago.</li>
+      <li>[Jun 2023] Be invited to serve as an external reviewer for <a href="https://uobevents.eventsair.com/cikm2023//">CIKM 2023</a>.</li>
+      <li>[May 2023] Attended <a href="https://www.midwest-ml.org/2023/">MMLS 2023</a> in Chicago.</li>
+      <li>[Apr 2023] Be invited to serve as an external reviewer for <a href="https://2023.ecmlpkdd.org/">ECML PKDD 2023</a>.</li>
+      <li>[Feb 2023] Be invited to serve as an external reviewer for <a href="https://sigir.org/sigir2023/">SIGIR 2023</a>.</li>
+      <li>[Jan 2023] Our paper <a href="https://www.frontiersin.org/articles/10.3389/fdata.2022.1049565/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Big_Data&id=1049565">Fair Classification via Domain Adaptation: A Dual Adversarial Learning Approach</a> is accepted by <strong><em>Frontiers in Big Data</em></strong>.</li>
+      <li>[Aug 2022] Be invited to serve as an external reviewer for <a href="https://www.wsdm-conference.org/2022/">WSDM 2022</a>.</li>
+      <li>[Jul 2022] Be invited to serve as a co-reviewer for <a href="https://icdm22.cse.usf.edu//">ICDM 2022</a>.</li>
+      <li>[Jul 2022] Be invited to serve as a subreviewer for <a href="http://sbp-brims.org/2022//">SBP-BRiMS 2022</a>.</li>
+      <li>[Jun 2022] Be invited to serve as a subreviewer for <a href="https://sites.google.com/nyu.edu/discoml/home/">DisCoML 2022</a>.</li>
+      <li>[Jun 2022] Be invited to serve as a subreviewer for <a href="https://www.cikm2022.org/">CIKM 2022</a>.</li>
+      <li>[Apr 2022] Be invited to serve as a subreviewer for <a href="https://www.computer.org/csdl/journal/tk/">TKDE</a>.</li>
+      <li>[Mar 2022] Be invited to serve as a subreviewer for <a href="https://sigir.org/sigir2022//">SIGIR 2022</a>.</li>
+      <li>[Feb 2022] Be invited to serve as a subreviewer for <a href="https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=6570650/">TCSS</a>.</li>
+      <li>[Feb 2022] Be invited to serve as an external reviewer for <a href="https://www.kdd.org/kdd2022//">KDD 2022</a>.</li>
+      <li>[Jan 2022] Be invited to serve as a subreviewer for <a href="https://www.siam.org/conferences/cm/conference/sdm22/">SDM 2022</a>.</li>
+      <li>[Jan 2022] Be invited to serve as a subreviewer for <a href="https://www.sciencedirect.com/journal/knowledge-based-systems/">Knowledge-Based Systems</a>.</li>
+      <li>[Dec 2021] Be invited to serve as a subreviewer for <a href="https://www.sciencedirect.com/journal/information-and-management/">Information & Management</a>.</li>
+    </ul>
+  </details>
 </div>
+
 
 
 
