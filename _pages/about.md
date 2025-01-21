@@ -31,8 +31,9 @@ My research interests are in the broad areas of **data mining** and **machine le
 
 <div class="highlight">
   <ul>
-    <li>[Aug 2023] Our paper <a href="https://imyday.github.io/pub/asonam2024/pdf/papers/1324_115.pdf">Investigating Gender Euphoria and Dysphoria on TikTok: Characterization and Comparison</a> is accepted by <strong><em>ASONAM 2024</em></strong>.</li>
-    <li>[Jul 2023] Our paper <a href="https://arxiv.org/abs/2310.09400">Collaborative Contextualization: Bridging the Gap between Collaborative Filtering and Pre-trained Language Model</a> is accepted by <strong><em>CIKM 2024</em></strong>.</li>
+    <li>[Nov 2024] Two papers have been accepted by <strong><em>COLING 2025</em></strong>.</li>
+    <li>[Aug 2024] Our paper <a href="https://imyday.github.io/pub/asonam2024/pdf/papers/1324_115.pdf">Investigating Gender Euphoria and Dysphoria on TikTok: Characterization and Comparison</a> is accepted by <strong><em>ASONAM 2024</em></strong>.</li>
+    <li>[Jul 2024] Our paper <a href="https://arxiv.org/abs/2310.09400">Collaborative Contextualization: Bridging the Gap between Collaborative Filtering and Pre-trained Language Model</a> is accepted by <strong><em>CIKM 2024</em></strong>.</li>
     <li>[Jun 2024] New preprint is online <a href="https://arxiv.org/abs/2406.14043">Taxonomy-Guided Zero-Shot Recommendations with LLMs</a>.</li>
   </ul>
   
@@ -76,6 +77,18 @@ My research interests are in the broad areas of **data mining** and **machine le
  
 
 ## Publications
+### 2025
+
+  * **Taxonomy-Guided Zero-Shot Recommendations with LLMs.**  
+  **Yueqing Liang**, [Liangwei Yang](https://yangliangwei.github.io/), [Chen Wang](https://scholar.google.com/citations?user=9xS58ucAAAAJ&hl=en), [Xiongxiao Xu](https://xiongxiaoxu.github.io/), [Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ&hl=en), [Kai Shu](http://www.cs.iit.edu/~kshu/).  
+  [*The 31st International Conference on Computational Linguistics*](https://aclanthology.org/volumes/2025.coling-main/) (**COLING 2025**).  
+\[[Paper](https://aclanthology.org/2025.coling-main.102/#)\] \[[Poster](https://github.com/yueqingliang1/TaxRec/blob/main/poster.pdf)\] \[[Code](https://github.com/yueqingliang1/TaxRec)\]
+
+  * **Piecing It All Together: Verifying Multi-Hop Multimodal Claims.**  
+  [Haoran Wang](https://haoranwang18.github.io/), [Aman Rangapur](https://amanrangapur.com/), [Xiongxiao Xu](https://xiongxiaoxu.github.io/), **Yueqing Liang**, Haroon Gharwi, [Carl Yang](https://www.cs.emory.edu/~jyang71/), [Kai Shu](http://www.cs.iit.edu/~kshu/).  
+  *The 31st International Conference on Computational Linguistics* (**COLING 2025**).  
+\[[Paper](https://aclanthology.org/2025.coling-main.498/)\] \[[Leaderboard](https://mmcv-dataset.github.io/)\] \[[Code](https://github.com/mmcv-dataset/MMCV)\]
+
 ### 2024
 
   * **Collaborative Contextualization: Bridging the Gap between Collaborative Filtering and Pre-trained Language Model.**  
@@ -87,11 +100,6 @@ My research interests are in the broad areas of **data mining** and **machine le
   [SJ Dillon](https://anthropology.emory.edu/people/grad_bios/dillon-sj.html)\*, **Yueqing Liang**\*(co-primary), [H Russell Bernard](https://hrussellbernard.com/), [Kai Shu](http://www.cs.iit.edu/~kshu/).  
   *International Conference on Advances in Social Networks Analysis and Mining* (**ASONAM 2024**).  
 \[[Paper](https://arxiv.org/abs/2305.19552)\]
-
-  * **Taxonomy-Guided Zero-Shot Recommendations with LLMs.**  
-  **Yueqing Liang**, [Liangwei Yang](https://yangliangwei.github.io/), [Chen Wang](https://scholar.google.com/citations?user=9xS58ucAAAAJ&hl=en), [Xiongxiao Xu](https://xiongxiaoxu.github.io/), [Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ&hl=en), [Kai Shu](http://www.cs.iit.edu/~kshu/).  
-  *arXiv preprint*, Jun 2024.  
-\[[Paper](https://arxiv.org/abs/2406.14043)\]
 
   * **SST: Multi-Scale Hybrid Mamba-Transformer Experts for Long-Short Range Time Series Forecasting.**  
   [Xiongxiao Xu](https://xiongxiaoxu.github.io/), **Yueqing Liang**, [Baixiang Huang](https://baixianghuang.github.io/), [Zhiling Lan](https://lanzhiling.github.io/), [Kai Shu](http://www.cs.iit.edu/~kshu/).  
