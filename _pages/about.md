@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 ## Bio
-Hi, I'm **Yueqing Liang** (梁月清), a fourth-year Ph.D. student in the Department of Computer Science at Illinois Institute of Technology (IIT) since Spring 2022, advised by [Prof. Kai Shu](https://www.cs.emory.edu/~kshu5/index.html). Before joining IIT, I received my *M.S.* in Big Data in Business from the *University of Sydney (USYD)* in 2020, and my *B.E.* in Telecommunications Engineering with Management from *Queen Mary University of London (QMUL)* in 2018. I worked as an applied scientist intern at Microsoft Bing Ads Recommendation, Summer 2025. 
+Hi, I'm **Yueqing Liang** (梁月清), a fourth-year Ph.D. student in the Department of Computer Science at Illinois Institute of Technology (IIT) since Spring 2022, advised by [Prof. Kai Shu](https://www.cs.emory.edu/~kshu5/). Before joining IIT, I received my *M.S.* in Big Data in Business from the *University of Sydney (USYD)* in 2020, and my *B.E.* in Telecommunications Engineering with Management from *Queen Mary University of London (QMUL)* in 2018. I worked as an applied scientist intern at Microsoft Bing Ads Recommendation, Summer 2025. 
 <!-- You can find my [CV](http://yueqingliang1.github.io/files/Yueqing_Liang_CV.pdf) here. -->
 
 <!--
@@ -35,10 +35,19 @@ Feel free to reach out to me at yueqingliang1 [at] gmail [dot] com or connect wi
 
 <div class="highlight">
   <ul>
-    <li>[Nov 2024] Two papers have been accepted by <strong><em>COLING 2025</em></strong>.</li>
-    <li>[Aug 2024] Our paper <a href="https://imyday.github.io/pub/asonam2024/pdf/papers/1324_115.pdf">Investigating Gender Euphoria and Dysphoria on TikTok: Characterization and Comparison</a> is accepted by <strong><em>ASONAM 2024</em></strong>.</li>
-    <li>[Jul 2024] Our paper <a href="https://arxiv.org/abs/2310.09400">Collaborative Contextualization: Bridging the Gap between Collaborative Filtering and Pre-trained Language Model</a> is accepted by <strong><em>CIKM 2024</em></strong>.</li>
-    <li>[Jun 2024] New preprint is online <a href="https://arxiv.org/abs/2406.14043">Taxonomy-Guided Zero-Shot Recommendations with LLMs</a>.</li>
+    <li>2025.11: <strong>UNBench</strong> is accepted by <strong><em>AAAI 2026</em></strong> as an <strong><em>oral presentation</em></strong>! 🎉🎉</li>
+    <li>2025.11: One paper is nominated as <strong><em>IEEE BigData 2025 best paper</em></strong>! 🎉🎉</li>
+    <li>2025.11: Two papers are accepted by <strong><em>IEEE BigData 2025</em></strong>.</li>
+    <li>2025.11: Passed my Ph.D. Comprehensive Exam! 🎉🎉</li>
+    <li>2025.10: One paper is accepted by <strong><em>CIKM 2025</em></strong>.</li>
+    <li>2025.08: Completed my internship as a Data Scientist Intern at <strong><em>Microsoft Bing Ads</em></strong>!</li>
+    <li>2025.05: Excited to start my summer internship at Microsoft, Mountain View.</li>
+    <li>2025.02: New preprint is online <a href="https://arxiv.org/abs/2406.14043">Benchmarking LLMs for Political Science: A United Nations Perspective</a>.</li>
+    <li>2025.01: One paper is accepted by <strong><em>TheWebConf 2025</em></strong>.</li>
+    <li>2024.11: Two papers have been accepted by <strong><em>COLING 2025</em></strong>.</li>
+    <li>2024.08: Our paper <a href="https://imyday.github.io/pub/asonam2024/pdf/papers/1324_115.pdf">Investigating Gender Euphoria and Dysphoria on TikTok: Characterization and Comparison</a> is accepted by <strong><em>ASONAM 2024</em></strong>.</li>
+    <li>2024.07: Our paper <a href="https://arxiv.org/abs/2310.09400">Collaborative Contextualization: Bridging the Gap between Collaborative Filtering and Pre-trained Language Model</a> is accepted by <strong><em>CIKM 2024</em></strong>.</li>
+    <li>2024.06: New preprint is online <a href="https://arxiv.org/abs/2406.14043">Taxonomy-Guided Zero-Shot Recommendations with LLMs</a>.</li>
   </ul>
   
   <details>
@@ -84,28 +93,38 @@ Feel free to reach out to me at yueqingliang1 [at] gmail [dot] com or connect wi
 
 ## Publications
 ### 2025
+  * **Benchmarking LLMs for Political Science: A United Nations Perspective.**  
+  **Yueqing Liang**, [Liangwei Yang](https://yangliangwei.github.io/), [Chen Wang](https://scholar.google.com/citations?user=9xS58ucAAAAJ&hl=en), [Xiongxiao Xu](https://xiongxiaoxu.github.io/), [Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ&hl=en), [Kai Shu](https://www.cs.emory.edu/~kshu5/).  
+  *The 40th AAAI Conference on Artificial Intelligence*, (**AAAI 2026**, **<span style="color:red;">Oral</span>**).  
+\[[Paper](https://arxiv.org/abs/2502.14122)\] \[[Code](https://github.com/yueqingliang1/UNBench)\]
+
   * **FABLE: Fairness Attack in Abusive Language Detection.**  
-  **Yueqing Liang**, [Lu Cheng](https://lcheng.org/), [Ali Payani](https://scholar.google.com/citations?user=9rHwD8wAAAAJ&hl=en), [Kai Shu](http://www.cs.iit.edu/~kshu/).  
+  **Yueqing Liang**, [Lu Cheng](https://lcheng.org/), [Ali Payani](https://scholar.google.com/citations?user=9rHwD8wAAAAJ&hl=en), [Kai Shu](https://www.cs.emory.edu/~kshu5/).  
   *2025 IEEE International Conference on Big Data*, (**IEEE BigData 2025**).  
 \[[Paper](https://arxiv.org/abs/2311.09428)\]
 
   * **Confidence-aware Fine-tuning of Sequential Recommendation Systems via Conformal Prediction.**  
   [Chen Wang](https://scholar.google.com/citations?user=9xS58ucAAAAJ&hl=en), [Fangxin Wang](https://fangxin-wang.github.io/), [Ruocheng Guo](https://scholar.google.com/citations?user=8Nuj8NwAAAAJ), **Yueqing Liang**, [Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ&hl=en).  
-  *2025 IEEE International Conference on Big Data*, (**IEEE BigData 2025**).  
+  *2025 IEEE International Conference on Big Data*, (**IEEE BigData 2025**, **<span style="color:red;">Best Paper Nomination</span>**).  
 \[[Paper](https://arxiv.org/abs/2402.08976)\]
 
   * **SST: Multi-Scale Hybrid Mamba-Transformer Experts for Time Series Forecasting.**  
-  [Xiongxiao Xu](https://xiongxiaoxu.github.io/), **Yueqing Liang**, [Baixiang Huang](https://baixianghuang.github.io/), [Zhiling Lan](https://lanzhiling.github.io/), [Kai Shu](http://www.cs.iit.edu/~kshu/).  
+  [Xiongxiao Xu](https://xiongxiaoxu.github.io/), **Yueqing Liang**, [Baixiang Huang](https://baixianghuang.github.io/), [Zhiling Lan](https://lanzhiling.github.io/), [Kai Shu](https://www.cs.emory.edu/~kshu5/).  
   *The 34th ACM International Conference on Information and Knowledge Management* (**CIKM 2025**).  
-\[[Paper](https://arxiv.org/abs/2404.14757)\]
+\[[Paper](https://dl.acm.org/doi/abs/10.1145/3746252.3761394)\]
+
+  * **Graph-Sequential Alignment and Uniformity: Toward Enhanced Recommendation Systems.**  
+  [Yuwei Cao](https://scholar.google.com/citations?user=ZOLP_QUAAAAJ&hl=en), [Liangwei Yang](https://yangliangwei.github.io/), [Zhiwei Liu](https://sites.google.com/view/zhiwei-jim), [Yuqing Liu](https://scholar.google.com/citations?user=WuTFx5wAAAAJ&hl=en), [Chen Wang](https://scholar.google.com/citations?user=9xS58ucAAAAJ&hl=en), **Yueqing Liang**, Hao Peng, [Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ&hl=en).  
+  *The Web Conference 2025* (**WWW 2025**).  
+\[[Paper](https://dl.acm.org/doi/abs/10.1145/3701716.3715498)\]
 
   * **Taxonomy-Guided Zero-Shot Recommendations with LLMs.**  
-  **Yueqing Liang**, [Liangwei Yang](https://yangliangwei.github.io/), [Chen Wang](https://scholar.google.com/citations?user=9xS58ucAAAAJ&hl=en), [Xiongxiao Xu](https://xiongxiaoxu.github.io/), [Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ&hl=en), [Kai Shu](http://www.cs.iit.edu/~kshu/).  
+  **Yueqing Liang**, [Liangwei Yang](https://yangliangwei.github.io/), [Chen Wang](https://scholar.google.com/citations?user=9xS58ucAAAAJ&hl=en), [Xiongxiao Xu](https://xiongxiaoxu.github.io/), [Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ&hl=en), [Kai Shu](https://www.cs.emory.edu/~kshu5/).  
   [*The 31st International Conference on Computational Linguistics*](https://aclanthology.org/volumes/2025.coling-main/) (**COLING 2025**).  
 \[[Paper](https://aclanthology.org/2025.coling-main.102/#)\] \[[Poster](https://github.com/yueqingliang1/TaxRec/blob/main/poster.pdf)\] \[[Code](https://github.com/yueqingliang1/TaxRec)\]
 
   * **Piecing It All Together: Verifying Multi-Hop Multimodal Claims.**  
-  [Haoran Wang](https://haoranwang18.github.io/), [Aman Rangapur](https://amanrangapur.com/), [Xiongxiao Xu](https://xiongxiaoxu.github.io/), **Yueqing Liang**, Haroon Gharwi, [Carl Yang](https://www.cs.emory.edu/~jyang71/), [Kai Shu](http://www.cs.iit.edu/~kshu/).  
+  [Haoran Wang](https://haoranwang18.github.io/), [Aman Rangapur](https://amanrangapur.com/), [Xiongxiao Xu](https://xiongxiaoxu.github.io/), **Yueqing Liang**, Haroon Gharwi, [Carl Yang](https://www.cs.emory.edu/~jyang71/), [Kai Shu](https://www.cs.emory.edu/~kshu5/).  
   *The 31st International Conference on Computational Linguistics* (**COLING 2025**).  
 \[[Paper](https://aclanthology.org/2025.coling-main.498/)\] \[[Leaderboard](https://mmcv-dataset.github.io/)\] \[[Code](https://github.com/mmcv-dataset/MMCV)\]
 
