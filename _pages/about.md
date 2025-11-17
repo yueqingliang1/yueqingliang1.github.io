@@ -8,14 +8,18 @@ redirect_from:
   - /about.html
 ---
 ## Bio
-Hi, this is Yueqing Liang (梁月清). I am currently a third-year Ph.D. student in the Department of Computer Science at Illinois Institute of Technology (IIT) since Spring 2022, advised by [Prof. Kai Shu](https://www.cs.emory.edu/~kshu5/index.html). Before joining IIT, I received my *M.S.* in Big Data in Business from the *University of Sydney (USYD)* in 2020, and my *B.E.* in Telecommunications Engineering with Management from *Queen Mary University of London (QMUL)* in 2018. 
+Hi, I'm **Yueqing Liang** (梁月清), a fourth-year Ph.D. student in the Department of Computer Science at Illinois Institute of Technology (IIT) since Spring 2022, advised by [Prof. Kai Shu](https://www.cs.emory.edu/~kshu5/index.html). Before joining IIT, I received my *M.S.* in Big Data in Business from the *University of Sydney (USYD)* in 2020, and my *B.E.* in Telecommunications Engineering with Management from *Queen Mary University of London (QMUL)* in 2018. I worked as an applied scientist intern at Microsoft Bing Ads Recommendation, Summer 2025. 
 <!-- You can find my [CV](http://yueqingliang1.github.io/files/Yueqing_Liang_CV.pdf) here. -->
 
 <!--
 Hi there! This is Yueqing Liang (梁月清), you can call me Luna as well. I am currently a first-year Ph.D. student in the [Department of Computer Science](https://www.iit.edu/computer-science) at [Illinois Institute of Technology (IIT)](https://www.iit.edu) since Spring 2022, advised by [Prof. Kai Shu](http://www.cs.iit.edu/~kshu/). Before joining IIT, I received my Master degree in [Big Data in Business](https://www.sydney.edu.au/handbooks/archive/2019/business_school_PG/coursework/subject_areas/big_data_business.shtml.html) from the [University of Sydney (USYD)](https://www.sydney.edu.au) in 2020, and my Bachelor degree in [Telecommunications Engineering with Management](http://eecs.qmul.ac.uk/study-abroad/joint-programme-bupt/bupt-degree-programmes/#bteml) from [Queen Mary University of London (QMUL)](https://www.qmul.ac.uk) in 2018.
 -->
 
-My research interests are in the broad areas of **data mining** and **machine learning**, including several related topics like **fairness**, **NLP**, **LLMs**, **recommender systems**, and **transfer learning**. I am currently seeking a research internship opportunity in the United States. I would also be glad to discuss potential collaborations or share my research through talks at relevant seminars. Feel free to reach out to me via email at yliang40 [at] hawk [dot] iit [dot] edu or connect with me on WeChat (ID: Luna_lyq).
+My research focuses on **large language models (LLMs)**, **recommendation** and **personalization**, and **LLM agents**. 
+<span style="color: hotpink;">I am currently seeking **research internship** or **full-time** opportunity in the United States.</span>
+I also welcome opportunities for collaboration, as well as invitations to give research talks or seminars.
+
+Feel free to reach out to me at yueqingliang1 [at] gmail [dot] com or connect with me on WeChat (ID: Luna_lyq).
 
 <!-- \[[View My Curriculum Vitae](https://yueqingliang1.github.io/files/CV_Yingtong.pdf)\]   
  -->
@@ -78,6 +82,20 @@ My research interests are in the broad areas of **data mining** and **machine le
 
 ## Publications
 ### 2025
+  * **FABLE: Fairness Attack in Abusive Language Detection.**  
+  **Yueqing Liang**, [Lu Cheng](https://lcheng.org/), [Ali Payani](https://scholar.google.com/citations?user=9rHwD8wAAAAJ&hl=en), [Kai Shu](http://www.cs.iit.edu/~kshu/).  
+  *2025 IEEE International Conference on Big Data*, (**IEEE BigData 2025**).  
+\[[Paper](https://arxiv.org/abs/2311.09428)\]
+
+  * **Confidence-aware Fine-tuning of Sequential Recommendation Systems via Conformal Prediction.**  
+  [Chen Wang](https://scholar.google.com/citations?user=9xS58ucAAAAJ&hl=en), [Fangxin Wang](https://fangxin-wang.github.io/), [Ruocheng Guo](https://scholar.google.com/citations?user=8Nuj8NwAAAAJ), **Yueqing Liang**, [Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ&hl=en).  
+  *2025 IEEE International Conference on Big Data*, (**IEEE BigData 2025**).  
+\[[Paper](https://arxiv.org/abs/2402.08976)\]
+
+  * **SST: Multi-Scale Hybrid Mamba-Transformer Experts for Time Series Forecasting.**  
+  [Xiongxiao Xu](https://xiongxiaoxu.github.io/), **Yueqing Liang**, [Baixiang Huang](https://baixianghuang.github.io/), [Zhiling Lan](https://lanzhiling.github.io/), [Kai Shu](http://www.cs.iit.edu/~kshu/).  
+  *The 34th ACM International Conference on Information and Knowledge Management* (**CIKM 2025**).  
+\[[Paper](https://arxiv.org/abs/2404.14757)\]
 
   * **Taxonomy-Guided Zero-Shot Recommendations with LLMs.**  
   **Yueqing Liang**, [Liangwei Yang](https://yangliangwei.github.io/), [Chen Wang](https://scholar.google.com/citations?user=9xS58ucAAAAJ&hl=en), [Xiongxiao Xu](https://xiongxiaoxu.github.io/), [Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ&hl=en), [Kai Shu](http://www.cs.iit.edu/~kshu/).  
@@ -93,23 +111,13 @@ My research interests are in the broad areas of **data mining** and **machine le
 
   * **Collaborative Contextualization: Bridging the Gap between Collaborative Filtering and Pre-trained Language Model.**  
   [Chen Wang](https://scholar.google.com/citations?user=9xS58ucAAAAJ&hl=en), [Liangwei Yang](https://yangliangwei.github.io/), [Zhiwei Liu](https://sites.google.com/view/zhiwei-jim), [Xiaolong Liu](https://scholar.google.com/citations?user=ooBkvK4AAAAJ&hl=en), [Mingdai Yang](https://scholar.google.com/citations?user=1h0mbWoAAAAJ&hl=zh-CN), **Yueqing Liang**, [Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ&hl=en).  
-  *International Conference on Information and Knowledge Management* (**CIKM 2024**).  
+  *The 33th ACM International Conference on Information and Knowledge Management* (**CIKM 2024**).  
 \[[Paper](https://arxiv.org/abs/2310.09400)\]
 
   * **Investigating Gender Euphoria and Dysphoria on TikTok: Characterization and Comparison.**  
   [SJ Dillon](https://anthropology.emory.edu/people/grad_bios/dillon-sj.html)\*, **Yueqing Liang**\*(co-primary), [H Russell Bernard](https://hrussellbernard.com/), [Kai Shu](http://www.cs.iit.edu/~kshu/).  
   *International Conference on Advances in Social Networks Analysis and Mining* (**ASONAM 2024**).  
 \[[Paper](https://arxiv.org/abs/2305.19552)\]
-
-  * **SST: Multi-Scale Hybrid Mamba-Transformer Experts for Long-Short Range Time Series Forecasting.**  
-  [Xiongxiao Xu](https://xiongxiaoxu.github.io/), **Yueqing Liang**, [Baixiang Huang](https://baixianghuang.github.io/), [Zhiling Lan](https://lanzhiling.github.io/), [Kai Shu](http://www.cs.iit.edu/~kshu/).  
-  *arXiv preprint*, Apr 2024.  
-\[[Paper](https://arxiv.org/abs/2404.14757)\]
-
-  * **Confidence-aware Fine-tuning of Sequential Recommendation Systems via Conformal Prediction.**  
-  [Chen Wang](https://scholar.google.com/citations?user=9xS58ucAAAAJ&hl=en), [Fangxin Wang](https://fangxin-wang.github.io/), [Ruocheng Guo](https://scholar.google.com/citations?user=8Nuj8NwAAAAJ), **Yueqing Liang**, [Kay Liu](https://kayzliu.com/), [Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ&hl=en).  
-  *arXiv preprint*, Feb 2024.  
-\[[Paper](https://arxiv.org/abs/2402.08976)\]
 
   * **Understanding the Concerns and Choices of the Public when Using Large Language Models for Healthcare.**  
   [Yunpeng Xiao](https://24yearsoldstudent.github.io/), [Kyrie Zhixuan Zhou](https://kyriezz.com/), **Yueqing Liang**, [Kai Shu](http://www.cs.iit.edu/~kshu/).  
@@ -119,11 +127,6 @@ My research interests are in the broad areas of **data mining** and **machine le
 
 
 ### 2023
-  * **Beyond Detection: Unveiling Fairness Vulnerabilities in Abusive Language Models.**  
-  **Yueqing Liang**, [Lu Cheng](https://lcheng.org/), [Ali Payani](https://scholar.google.com/citations?user=9rHwD8wAAAAJ&hl=en), [Kai Shu](http://www.cs.iit.edu/~kshu/).  
-  *arXiv preprint*, Nov 2023.  
-\[[Paper](https://arxiv.org/abs/2311.09428)\]
-
   * **Fair Classification via Domain Adaptation: A Dual Adversarial Learning Approach.**  
   **Yueqing Liang**, [Canyu Chen](https://canyuchen.com/), [Tian Tian](https://www.linkedin.com/in/tian-tian-3b0a9bb0/), [Kai Shu](http://www.cs.iit.edu/~kshu/).  
   *Frontiers in Big Data* 5, 129. Jan. 2023.  
@@ -137,8 +140,8 @@ My research interests are in the broad areas of **data mining** and **machine le
   *Algorithms* 2022, 15(9), 299.  
 \[[Paper](https://www.mdpi.com/1999-4893/15/9/299)\]
 
-  * **On Fair Classification with Mostly Private Sensitive Attributes.**  
-  [Canyu Chen](https://canyuchen.com/), **Yueqing Liang**, [Xiongxiao Xu](https://xiongxiaoxu.github.io/), [Shangyu Xie](https://scholar.google.com/citations?user=fZXYI2wAAAAJ&hl=en), [Yuan Hong](https://yhongcs.github.io/index.html), [Kai Shu](http://www.cs.iit.edu/~kshu/).  
+  * **When Fairness Meets Privacy: Fair Classification with Semi-Private Sensitive Attributes.**  
+  [Canyu Chen](https://canyuchen.com/), **Yueqing Liang**, [Xiongxiao Xu](https://xiongxiaoxu.github.io/), [Shangyu Xie](https://scholar.google.com/citations?user=fZXYI2wAAAAJ&hl=en), [Yuan Hong](https://yhongcs.github.io/index.html), [Kai Shu](http://www.cs.iit.edu/~kshu/).
   *Advances in Neural Information Processing Systems workshop on Trustworthy and Socially Responsible Machine Learning* (**TSRML@NeurIPS 2022**) and *workshop on Algorithmic Fairness through the Lens of Causality and Privacy* (**AFCP@NeurIPS 2022**).  
 \[[Paper](https://arxiv.org/abs/2207.08336)\]
 <!-- *Advances in Neural Information Processing Systems(NeurIPS), Workshop*, 2022.   -->
