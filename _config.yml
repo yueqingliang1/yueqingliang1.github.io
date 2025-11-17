@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yueqing Liang's Homepage"
 title_separator          : "-"
 name                     : &name "Yueqing Liang"
-description              : &description "Ph.D. student at Illinois Institute of Technology"
+description              : &description "Ph.D. candidate at Illinois Institute of Technology"
 url                      : https://yueqingliang1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yueqingliang1.github.io"
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Yueqing Liang"
-  avatar           : "avatar3.jpeg"
-  bio              : "Ph.D. student at Illinois Institute of Technology"
+  avatar           : "avatar4.jpeg"
+  bio              : "Ph.D. candidate at Illinois Institute of Technology"
   location         : "Chicago, Illinois"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=kv2DPqsAAAAJ&hl=en&oi=ao"
-  email            : "yliang40@hawk.iit.edu"
+  email            : "yueqingliang1@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
