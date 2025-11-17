@@ -121,7 +121,7 @@ Feel free to reach out to me at yueqingliang1 [at] gmail [dot] com or connect wi
 
   * **Taxonomy-Guided Zero-Shot Recommendations with LLMs.**  
   **Yueqing Liang**, [Liangwei Yang](https://yangliangwei.github.io/), [Chen Wang](https://scholar.google.com/citations?user=9xS58ucAAAAJ&hl=en), [Xiongxiao Xu](https://xiongxiaoxu.github.io/), [Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ&hl=en), [Kai Shu](https://www.cs.emory.edu/~kshu5/).  
-  [*The 31st International Conference on Computational Linguistics*](https://aclanthology.org/volumes/2025.coling-main/) (**COLING 2025**).  
+  *The 31st International Conference on Computational Linguistics* (**COLING 2025**).   
 \[[Paper](https://aclanthology.org/2025.coling-main.102/#)\] \[[Poster](https://github.com/yueqingliang1/TaxRec/blob/main/poster.pdf)\] \[[Code](https://github.com/yueqingliang1/TaxRec)\]
 
   * **Piecing It All Together: Verifying Multi-Hop Multimodal Claims.**  
