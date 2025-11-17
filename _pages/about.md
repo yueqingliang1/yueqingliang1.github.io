@@ -43,7 +43,7 @@ Feel free to reach out to me at yueqingliang1 [at] gmail [dot] com or connect wi
   
   <details>
     <summary>View more news</summary>
-    <div style="max-height: 300px; overflow-y: auto; padding-left: 20px;">
+    <div style="max-height: 200px; overflow-y: auto; padding-left: 20px;">
       <ul>
         <li>[Feb 2024] Be invited to serve as a PC member for <a href="https://kdd2024.kdd.org/">KDD 2024</a>.</li>
         <li>[Feb 2024] New preprint is online <a href="https://arxiv.org/abs/2402.08976">Confidence-aware Fine-tuning of Sequential Recommendation Systems via Conformal Prediction</a>.</li>
