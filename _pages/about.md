@@ -41,19 +41,20 @@ Feel free to reach out to me at yueqingliang1 [at] gmail [dot] com or connect wi
     <li>2025.11: Passed my Ph.D. Comprehensive Exam! 🎉🎉</li>
     <li>2025.10: One paper is accepted by <strong><em>CIKM 2025</em></strong>.</li>
     <li>2025.08: Completed my internship as a Data Scientist Intern at <strong><em>Microsoft Bing Ads</em></strong>!</li>
-    <li>2025.05: Excited to start my summer internship at Microsoft, Mountain View.</li>
-    <li>2025.02: New preprint is online <a href="https://arxiv.org/abs/2406.14043">Benchmarking LLMs for Political Science: A United Nations Perspective</a>.</li>
-    <li>2025.01: One paper is accepted by <strong><em>TheWebConf 2025</em></strong>.</li>
-    <li>2024.11: Two papers have been accepted by <strong><em>COLING 2025</em></strong>.</li>
-    <li>2024.08: Our paper <a href="https://imyday.github.io/pub/asonam2024/pdf/papers/1324_115.pdf">Investigating Gender Euphoria and Dysphoria on TikTok: Characterization and Comparison</a> is accepted by <strong><em>ASONAM 2024</em></strong>.</li>
-    <li>2024.07: Our paper <a href="https://arxiv.org/abs/2310.09400">Collaborative Contextualization: Bridging the Gap between Collaborative Filtering and Pre-trained Language Model</a> is accepted by <strong><em>CIKM 2024</em></strong>.</li>
-    <li>2024.06: New preprint is online <a href="https://arxiv.org/abs/2406.14043">Taxonomy-Guided Zero-Shot Recommendations with LLMs</a>.</li>
+
   </ul>
   
   <details>
     <summary>View more news</summary>
     <div style="max-height: 200px; overflow-y: auto; padding-left: 20px;">
       <ul>
+        <li>2025.05: Excited to start my summer internship at Microsoft, Mountain View.</li>
+        <li>2025.02: New preprint is online <a href="https://arxiv.org/abs/2406.14043">Benchmarking LLMs for Political Science: A United Nations Perspective</a>.</li>
+        <li>2025.01: One paper is accepted by <strong><em>TheWebConf 2025</em></strong>.</li>
+        <li>2024.11: Two papers have been accepted by <strong><em>COLING 2025</em></strong>.</li>
+        <li>2024.08: Our paper <a href="https://imyday.github.io/pub/asonam2024/pdf/papers/1324_115.pdf">Investigating Gender Euphoria and Dysphoria on TikTok: Characterization and Comparison</a> is accepted by <strong><em>ASONAM 2024</em></strong>.</li>
+        <li>2024.07: Our paper <a href="https://arxiv.org/abs/2310.09400">Collaborative Contextualization: Bridging the Gap between Collaborative Filtering and Pre-trained Language Model</a> is accepted by <strong><em>CIKM 2024</em></strong>.</li>
+        <li>2024.06: New preprint is online <a href="https://arxiv.org/abs/2406.14043">Taxonomy-Guided Zero-Shot Recommendations with LLMs</a>.</li>
         <li>[Feb 2024] Be invited to serve as a PC member for <a href="https://kdd2024.kdd.org/">KDD 2024</a>.</li>
         <li>[Feb 2024] New preprint is online <a href="https://arxiv.org/abs/2402.08976">Confidence-aware Fine-tuning of Sequential Recommendation Systems via Conformal Prediction</a>.</li>
         <li>[Feb 2024] Be invited to serve as a PC member for <a href="https://socialmediaandsociety.org/">SMSociety 2024</a>.</li>
